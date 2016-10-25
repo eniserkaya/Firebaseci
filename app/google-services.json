@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "200464693552",
+    "firebase_url": "https://veritabanidersi-9ef45.firebaseio.com",
+    "project_id": "veritabanidersi-9ef45",
+    "storage_bucket": "veritabanidersi-9ef45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200464693552:android:d5cf11e1a63e93bd",
+        "android_client_info": {
+          "package_name": "com.eniserkaya.firebaseci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200464693552-83al7hhipb0cco669k6sppmf9e9o8kf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIsGNOzMlYRcBLYB56g5SyFwsk2pNH9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
